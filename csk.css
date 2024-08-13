@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.header{
+  background: yellow;
+  font-size: 25px;
+}
+h1{
+  display: inline;
+}
+.one{
+  text-align: center;
+  margin: 50px;
+  font-size: 30px;
+}
+.box{
+   text-align: center;
+  margin: 50px;
+  font-size: 30px;
+}
